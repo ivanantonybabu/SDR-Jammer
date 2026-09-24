@@ -28,15 +28,4 @@ Combined experiment containing both an NBFM transmit chain and an independent US
 - QT GUI frequency-domain visualization
 - Controlled RF interference experimentation
 
-## Files
-
-```text
-DFR-Experiments/
-├── JammerTX.grc
-├── jammerRX.grc
-├── JammerRXTX.grc
-├── README.md
-└── DOCUMENTATION.md
-```
-
 For a complete block-by-block explanation, signal flow, parameters, implementation details, and result interpretation, see **[DOCUMENTATION.md](./DOCUMENTATION.md)**.
